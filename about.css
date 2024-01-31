@@ -1,0 +1,10 @@
+.container-fluid{background-color:rgb(31, 110, 214);}
+
+
+.feature-icon{width:4rem;
+height: 4rem;
+border-radius: 0.75rem;}
+
+.container{background-color: white;}
+.btn-outline-success{background-color: black;}
+span{color: aliceblue;}
